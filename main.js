@@ -4,6 +4,9 @@ const products = [
     { name : 'banan' , prix : 15 },
     { name : 'mongue', prix : 35 }, 
     { name : "orange", prix : 10 },
+    { name : "ananass", prix : 45},
+    { name : "tomate", prix : 8},
+    { name : "framboise", prix :45 },
 ] 
 
 const name = products.map(products => products.name);
